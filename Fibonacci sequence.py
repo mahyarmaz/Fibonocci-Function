@@ -5,7 +5,7 @@ def fibonocci(x):
         fib_list.insert(i+1, y)
     print(fib_list)
 
-fibonocci(30)
+#example: call function for 30 calculations--> fibonocci(30)
 
 
 
